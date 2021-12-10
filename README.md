@@ -1,4 +1,6 @@
 # OOP-Project
+
+## Project will be finish due to 16 January
 My "Object Oriented Programming" course term project. Project includes design patterns, testing with JUnit, hierarchial tree and so on.
 
 Definition of problem in below (TR) :
