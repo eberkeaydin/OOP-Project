@@ -6,6 +6,6 @@ public class Officer extends Employee implements Interface{
 
     @Override
     public void showEmployeeDetails(){
-        System.out.println("Informations is printing..");
+        System.out.println("Officer's info is printing..");
     }
 }

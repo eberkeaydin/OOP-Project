@@ -19,4 +19,8 @@ public class CompanyDirectory implements Interface{
     {
         employeeList.remove(face);
     }
+
+    public void getChild(Director director){ // To find director's officer.
+
+    }
 }
